@@ -1,2 +1,2 @@
-# Abstract
-    -> This circuit is developed by interfacing ultrasonic sensor“HC-SR04” with AVR microcontroller. This sensor uses a technique called “ECHO” which is something you get when sound reflects back after striking with a surface.
+# Distance Measurement using HC-SR04 and AVR Microcontroller
+    -> To Detect the distance of the object to using HC-SR04 Ultrosonic Sensor and Atmega328 Microcontroller.
