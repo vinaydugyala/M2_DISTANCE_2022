@@ -1,14 +1,16 @@
 # HIGH LEVEL REQUIREMENTS
- -> The ultrasonic sensor can be installed on the nose, wings or tail of the aircraft.
- 
- -> Used to develop military Radar.
- 
- -> Used in automobile industry for self-parking technology and anti-collision safety systems.
- 
- -> Ultrasound imaging or sonography is often used in medicine. In the nondestructive testing of products and structures, ultrasound is used to detect invisible flaws.
+ -> ![image](https://user-images.githubusercontent.com/80596756/164877751-3c319402-519f-4633-9026-8aada8c72aaa.png)
+
  
 # LOW LEVEL REQUIREMENTS
-  -> Used in homes.
+ ATMEGA328
  
-  -> Used in washing taps.
- 
+Power supply (5v)
+
+Hd44780 (16x2LCD) 
+
+1000uF capacitor
+
+10KΩ resistor (2 pieces) 
+
+HC-SR04 sensor.
