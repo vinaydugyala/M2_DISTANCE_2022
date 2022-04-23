@@ -29,6 +29,21 @@
  -> If we are using in foggy conditions Then the values might be change.
  
  -> if there any inteernal malfunction occur it may show wrong values.
+ 
+ 
+ # 4W’s &IH
+ 
+ #### WHO:
+ This device can be used in vechiles and aircrafts To determine surrounding objects.
+ 
+ #### WHAT:
+ This device is used for measuring exact distance from the object.
+ 
+ #### WHEN:
+ This device is used during night time in travelling.
+ 
+ #### WHERE:
+ It is mandatory to all vehicles and used in medical purpose and military purpose.
 
 # HIGH LEVEL REQUIREMENTS
  -> ![image](https://user-images.githubusercontent.com/80596756/164877751-3c319402-519f-4633-9026-8aada8c72aaa.png)
