@@ -64,6 +64,11 @@ Hd44780 (16x2LCD)
 
 HC-SR04 sensor.
 
+# Circuit Diagram and Working Explanation
+
+![circuit diagram](https://user-images.githubusercontent.com/80596756/164978017-92445d13-e826-49a1-9dc1-4495f9cc7261.jpg)
+
+
 # EXPLANATION
 -> This circuit is developed by interfacing ultrasonic sensor“HC-SR04” with AVR microcontroller. This sensor uses a technique called “ECHO” which is something you get when sound reflects back after striking with a surface.
 
