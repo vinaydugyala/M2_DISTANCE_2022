@@ -1,1 +1,7 @@
 # M2_DISTANCE_MEASUREMENT_2022
+
+
+
+# Badges
+
+[![Build-Linux](https://github.com/vinaydugyala/M2_DISTANCE_MEASUREMENT_2022/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/vinaydugyala/M2_DISTANCE_MEASUREMENT_2022/actions/workflows/Build-Linux.yml)
